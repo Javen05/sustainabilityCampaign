@@ -1,6 +1,6 @@
 # Sustainability Campaign
 ## About project:
-The objective was to design a campaign to address a sustainability issue in the community.
+The objective was to design a campaign to address a sustainability issue within a chosen community.
 
 ## Dashboard made:
 This dashboard was created as proof that the sustainability issue we chose to tackle exists within the community of Temasek Polytechnic. The data was obtained by a survey we conducted.
